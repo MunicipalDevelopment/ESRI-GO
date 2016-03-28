@@ -1,4 +1,4 @@
-package esrirest
+package github.com/MunicipalDevelopment/ESRI-GO/esrirest
 
 import (
   "fmt" 
